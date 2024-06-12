@@ -1,4 +1,4 @@
-# Weather-Data-Analysis-Big-Data
+# Weather Data Analysis (Big Data/Machine Learning)
 
 This project focuses on analyzing weather data using Apache Spark on the Taki cluster. Various machine learning algorithms such as Linear Regression, Random Forest and Decision Trees are applied to analyze the data and make predictions.
 
