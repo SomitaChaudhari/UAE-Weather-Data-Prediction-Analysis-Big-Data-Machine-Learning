@@ -1,4 +1,8 @@
-# UAE Weather Prediction Data Analysis (Big Data/Machine Learning)
+# UAE Weather Prediction Data Analysis 
+
+***Big Data & Machine Learning**   |  [![DOI](https://zenodo.org/badge/814232438.svg)](https://zenodo.org/doi/10.5281/zenodo.11998891)
+
+
 
 This project focuses on analyzing weather data using Apache Spark on the Taki cluster. Various machine learning algorithms such as Linear Regression, Random Forest and Decision Trees are applied to analyze the data and make predictions.
 
