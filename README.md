@@ -1,6 +1,6 @@
 # UAE Weather Prediction Data Analysis 
 
-[![DOI](https://zenodo.org/badge/814232438.svg)](https://zenodo.org/doi/10.5281/zenodo.11998891) |  **Big Data & Machine Learning**   
+[![DOI](https://zenodo.org/badge/814232438.svg)](https://zenodo.org/doi/10.5281/zenodo.11998891) |  ***Big Data & Machine Learning***  
 
 
 
